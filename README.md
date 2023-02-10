@@ -13,7 +13,7 @@ pip install -r requirements.txt
 python spoof.py
 ```
 
-<img src=https://github.com/adhiraj-ranjan/arp-spoofer/blob/main/screenshot.png alt="usage screenshot" height=500 width=500>
+<img src=https://github.com/adhiraj-ranjan/arp-spoofer/blob/main/screenshot.png alt="usage screenshot" height=350 width=700>
 <br/>
 
 **`Buy Me a Coffee`**
